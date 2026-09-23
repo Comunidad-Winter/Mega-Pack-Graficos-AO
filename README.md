@@ -40,7 +40,7 @@ Este proyecto **pertenece a la comunidad** — no tiene un único dueño. Se man
 | Recopilación general | `^[GS]^` — [gs-zone.org](http://gs-zone.org) |
 | Cascos, Gorros, Sombreros, Turbantes y Entradas a Dungeons | `rckeke` |
 | Primera limpieza de gráficos duplicados (14k+ archivos) | [BSG-Walter](https://github.com/BSG-Walter) |
-| Limpieza de duplicados, pasaje a PNG y renombrado general | [Saresq](https://github.com/saresq) |
+| Reorganización general - Limpieza - Pasaje a PNG | [Saresq](https://github.com/saresq) |
 
 ## 🚀 ¡CONTRIBUYE! Este repo es de todos
 
