@@ -29,9 +29,16 @@ Este proyecto **pertenece a la comunidad** — no tiene un único dueño. Se man
 
 | Carpeta | Descripción |
 |---------|-------------|
-| 🗂️ `Graficos/` | Gráficos generales recopilados |
-| 🪖 `Cascos-Gorros-Sombreros-Turbantes/` | Equipamiento de cabeza |
-| 🏰 `Entradas a Dungeons/` | Gráficos de entradas a mazmorras |
+| 🧑 `Cabezas/` | Todo lo que va en la cabeza: cabezas, cascos, sombreros, gorros |
+| 🥋 `Cuerpos/` | Cuerpos, armaduras, túnicas y ropa |
+| ⚔️ `Armas/` | Espadas, dagas, arcos y báculos |
+| 🛡️ `Escudos/` | Escudos |
+| 🐉 `NPCs/` | NPCs y criaturas |
+| ✨ `Hechizos/` | Hechizos y efectos |
+| 🎒 `Objetos/` | Objetos e íconos de inventario |
+| 🗂️ `Sin Revision/` | Gráficos todavía sin clasificar — ¡se agradece ayuda para ordenarlos! |
+| 🪖 `Cascos-Gorros-Sombreros-Turbantes/` | Equipamiento de cabeza (colección de `rckeke`) |
+| 🏰 `Entradas a Dungeons/` | Gráficos de entradas a Dungeons |
 
 ## 🤝 Créditos
 
