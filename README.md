@@ -37,15 +37,16 @@ Este proyecto **pertenece a la comunidad** — no tiene un único dueño. Se man
 | ✨ `Hechizos/` | Hechizos y efectos |
 | 🎒 `Objetos/` | Objetos e íconos de inventario |
 | 🗂️ `Sin Revision/` | Gráficos todavía sin clasificar — ¡se agradece ayuda para ordenarlos! |
-| 🪖 `Cascos-Gorros-Sombreros-Turbantes/` | Equipamiento de cabeza (colección de `rckeke`) |
+| 🪖 `Cascos-Gorros-Sombreros-Turbantes/` | Cascos, gorros, sombreros y turbantes |
 | 🏰 `Entradas a Dungeons/` | Gráficos de entradas a Dungeons |
 
 ## 🤝 Créditos
 
 | Aporte | Autor |
 |--------|-------|
+| Creación y mantenimiento del repositorio | [Lorwik](https://github.com/ManuelJSD) |
 | Recopilación general | `^[GS]^` — [gs-zone.org](http://gs-zone.org) |
-| Cascos, Gorros, Sombreros, Turbantes y Entradas a Dungeons | `rckeke` |
+| Cascos, Gorros, Sombreros, Turbantes, Entradas a Dungeons y pack Khanaya (ropas, escudos y arcos) | [rckeke / Khanaya](https://www.gs-zone.org/miembros/rckeke.37438/#recent-content) |
 | Primera limpieza de gráficos duplicados (14k+ archivos) | [BSG-Walter](https://github.com/BSG-Walter) |
 | Reorganización general - Limpieza - Pasaje a PNG | [Saresq](https://github.com/saresq) |
 
